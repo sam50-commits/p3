@@ -53,10 +53,10 @@ Below is the correct placement of each file within the xv6 project folder.
 1. Clone xv6-riscv:
 
    ```sh
-   git clone https://github.com/mit-pdos/xv6-riscv
+   git clone https://github.com/hamzehkhazaei/xv6-riscv
    ```
 2. Copy each file from this repository into the matching xv6 directory.
-3. Rename `Makefile.txt` → `Makefile` (if needed).
+3. Rename `Makefile.txt` → `Makefile` .
 4. Build and run:
 
    ```sh
